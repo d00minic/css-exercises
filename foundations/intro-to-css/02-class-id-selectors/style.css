@@ -1,8 +1,7 @@
 .odd-number,
 .three {
     background-color: #ffb6c1;
-    font-family: "Verdana", "DejaVu Sans";
-    fallback: sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 } 
     
 
